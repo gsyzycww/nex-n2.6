@@ -1,0 +1,14 @@
+{
+  "name": "nex-chat",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Nex Chat 对话演示：聊天界面 + MOSS nex-n2.6 流式 API 代理",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=20.6"
+  }
+}
